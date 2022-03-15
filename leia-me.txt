@@ -1,0 +1,9 @@
+git init = Inicia a aplicação.
+git status = Mostra se os arquivos foram adicionados. 
+git add =  Adciona um arquivo criado.
+git add . = Adiciona todos os arquivos. 
+git commit -m = Dá um nome ao projeto e cria o mesmo online no github
+git remote add origin = Indica qual repositório online ele se encontra
+git push -u origin master = Dá um upload no repositório
+
+
